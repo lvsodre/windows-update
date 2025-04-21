@@ -18,7 +18,7 @@ Uma ferramenta simples e eficiente para automatizar o processo de atualização 
 
 ## 📥 Instalação
 
-1. Faça o download do arquivo executável na seção de [Releases](https://github.com/lvsodre/windows-update-auto/releases)
+1. Faça o download do arquivo executável.
 2. Execute o arquivo como administrador
 
 ## 🔧 Uso
